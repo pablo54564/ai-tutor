@@ -140,8 +140,8 @@ Celebrates your progress
 
 Pablo - Junior AI Developer
 
-- GitHub: github.com/YOUR-USERNAME
-- Built in: 2024
+- GitHub: github.com/pablo54564
+- Built in: 2026
 
 ---
 
